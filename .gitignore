@@ -1,0 +1,9 @@
+node_modules/
+.expo/
+.metro-cache/
+dist/
+*.log
+.DS_Store
+*.apk
+*.aab
+tarim-muhasebe-source.zip
